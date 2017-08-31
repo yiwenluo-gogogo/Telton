@@ -1,7 +1,7 @@
 # Telton
 Input tool to help improve typing(writing code, document, article) efficiency by allow user to add self-defined shortcut for any string.
 
-[Click here](./telton.zip)to download executable file.
+[Click here](./Telton.zip) to download executable file.
 
 Please refer to guide below on how to use
 
