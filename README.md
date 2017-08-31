@@ -1,5 +1,8 @@
 # Telton
 Input tool to help improve typing(writing code, document, article) efficiency by allow user to add self-defined shortcut for any string.
+
+Click here to download executable file.
+
 Please refer to guide below on how to use
 
 
