@@ -1,5 +1,8 @@
 # Telton
 Input tool to help improve typing(writing code, document, article) efficiency by allow user to add self-defined shortcut for any string.
+Please refer to guide below on how to use
+
+
 
 
 # Telton User Guide
@@ -38,6 +41,12 @@ Paste shortcuts into this folder and Windows will automatically load them when y
 
 # Telton Shortcut List(default):
 
+| Shortcut | Text         |
+|----------|--------------|
+| wm       | watermelon   |
+| dec      | descending   |
+| tes      | randomstring |
+| bms      | Bristol      |
 
 
 # How to modify or delete existing shortcut
