@@ -9,4 +9,4 @@ By Yiwen Luo
 
 Telton functions
 When telton is open, you can find telton in Windows Taskbar with miniature icon of green infinite loop. 
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Alt text](./guideimg/img3.jpg?raw=true "Optional Title")
