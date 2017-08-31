@@ -1,7 +1,7 @@
 # Telton
 Input tool to help improve typing(writing code, document, article) efficiency by allow user to add self-defined shortcut for any string.
 
-[Click here](./Telton.zip) to download executable file.
+Telton.zip file in the repository is the executable program to run without python.
 
 Please refer to guide below on how to use
 
