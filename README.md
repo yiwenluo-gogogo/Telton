@@ -24,9 +24,13 @@ Right click on the icon, you will see four menu options:
 ![](./guideimg/img4.png?raw=true "Optional Title")
 
 1.Turn on: This enables shortcut function, which allow you to write certain string into editor with two or three letter combination plus space. It will works in all text-editor, like email, word editor, and browser etc.
+
 2.Turn off: This disables shortcut function.
+
 3.Help: Open help file with latest shortcutlist.
+
 4.Add: You can add new shortcut by typing into the window poped up. Keep in mind the abbreviation can only be two or three letter.
+
 
 ![](./guideimg/img5.png?raw=true "Optional Title")
 
