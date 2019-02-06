@@ -1,17 +1,14 @@
 # Telton
 Input tool to help improve typing(writing code, document, article) efficiency by allow user to add self-defined shortcut for any string.
 
+For windows:
 Telton.zip file in the repository is the executable program to run without python.
 
-Please refer to guide below on how to use
+For mac:
+Please download Telton.dmg and follow the instructions.
 
 
-
-
-# Telton User Guide
-
-
-By Yiwen Luo
+For how to use please refer to guide below.
 
 # Telton functions
 
