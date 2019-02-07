@@ -2,6 +2,7 @@ import rumps
 from pynput.keyboard import Key, Controller, Listener
 import subprocess, sys
 import pickle
+import os
 
 # shortcut_dict={}
 # shortcut_dict[2]={"py":"python"}
@@ -26,7 +27,7 @@ proc = subprocess.Popen(["osascript"] + args ,stdout=subprocess.PIPE )
 progname = proc.stdout.read().strip()
 sys.stdout.write(str(progname))
 
-f = open('store.pckl', 'rb')
+f = open(os.environ['HOME']+'/Library/Preferences/store.pckl', 'rb')
 shortcut_dict = pickle.load(f)
 f.close()
 
